@@ -9,3 +9,6 @@ The importance of home care in Canada cannot be overstated, as it has proven to 
 As a data consultant hired by the firm, my primary objective is to create a comprehensive three-year annual service plan for ComfortHealth, detailing the hiring and allocation of the workforce and medical facilities. This plan will also outline how the agency intends to serve the various geographical areas covered by ComfortHealth during the next three years.
 
 To ensure the effective execution of the annual service plan, a thorough analysis of the current and projected demand for home care services must be conducted. This analysis will serve as a guide to determine the number of healthcare professionals needed and the optimal allocation of medical facilities.
+
+
+Please review the report to understand how I formulate and solve the problem using linear programming and pulp. 
